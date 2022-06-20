@@ -1,13 +1,20 @@
 A DLS enabled transfer list component for Vue.js.
+
+
 Uses
 •	Move single or multiple selected items from left array list to right array list and vice versa.
 •	Filter and sorting enabled.
 •	Customizable options are provided.
+
+
 Installation
 ******* install command goes here **************
+
 How to use?
 In your component file embed the selector.
 Eg: ***** Component tag name ***********
+
+
 Options
 Prop Name	Datatype	Optional/Mandatory
 title	String	Optional
